@@ -1,2 +1,2 @@
-serve:
-  port: 3001
+config:
+  info: "main version 1"
